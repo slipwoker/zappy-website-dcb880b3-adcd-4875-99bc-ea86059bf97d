@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-dcb880b3.zappy5.app
+https://example.com
 גלו את מרכז הספורט והפנאי המוביל לסקווש ועוד: אימונים מקצועיים, משחקי חברה וחוויית כושר ייחודית שמחכה לכם. הצטרפו עוד היום והזיעו בכיף!
 
 ### תוכניות וחוויות
-https://-dcb880b3.zappy5.app/programs-experiences
+https://example.com/programs-experiences
 שדרגו את הכושר עם תוכניות מגוונות: אימוני סקווש, פעילויות פנאי אקטיביות והפתעות נוספות. התאימו לעצמכם חוויה מנצחת והזמינו מקום עכשיו!
 
 ### אודות וקהילה
-https://-dcb880b3.zappy5.app/about-community
+https://example.com/about-community
 הצצה לעולם של ממלכת הסקושים: קהילה תוססת, ערכי ספורט ופנאי, וסיפורים של שחקנים. בואו להיות חלק מהמשפחה שמזיזה את הגוף והנשמה.
 
 ### צור קשר
-https://-dcb880b3.zappy5.app/contact
+https://example.com/contact
 מוכנים לקפוץ למגרש? השאירו פרטים, שאלו על תוכניות, או הצטרפו לאירוע הקרוב. אנחנו כאן כדי להפוך כל פנייה לחוויית ספורט ופנאי בלתי נשכחת!
 
 ### Products
-https://-dcb880b3.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ממלכת הסקושים
 
 ### Cart
-https://-dcb880b3.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-dcb880b3.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-dcb880b3.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-dcb880b3.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-dcb880b3.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-dcb880b3.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ממלכת הסקושים
 
 ### Category
-https://-dcb880b3.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ממלכת הסקושים
 
 ### תודה רבה | ממלכת הסקושים
-https://-dcb880b3.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. פנייתך בנושא ספורט ופנאי התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-dcb880b3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-dcb880b3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-dcb880b3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Sports & Recreation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-dcb880b3.zappy5.app/sitemap.xml
-- Robots: https://-dcb880b3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-dcb880b3.zappy5.app/llms-full.txt
-- Products (JSON): https://-dcb880b3.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-dcb880b3.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
